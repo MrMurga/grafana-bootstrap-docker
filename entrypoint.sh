@@ -1,6 +1,6 @@
 #!/bin/sh
 
-GF_API=${GF_API:-http://grafana:3000/api}
+GF_API=${GF_API:-http://desolate-brook-68995.herokuapp.com/}
 GF_USER=${GF_USER:-admin}
 GF_PASSWORD=${GF_PASSWORD:-admin}
 
